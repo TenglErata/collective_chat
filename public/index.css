@@ -1,0 +1,7 @@
+:root {
+    --hue-color: 0;
+
+    --text-primary-color: hsl(var(--hue-color), 80%, 50%);
+    --text-primary-color-active: hsl(var(--hue-color), 80%, 45%);
+    --text-secondary-color: white;
+}
